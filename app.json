@@ -1,42 +1,8 @@
 {
-  "$schema": ".app/app.schema.json",
-  "title": "Eleventy Notes",
-  "description": "A simple, lightweight, and flexible note-taking template for Eleventy.",
-  "editThisNote": {
-    "url": "https://github.com/rothsandro/eleventy-notes/edit/{{branch}}/{{file}}"
-  },
-  "sidebar": {
-    "links": [
-      {
-        "url": "https://github.com/rothsandro/eleventy-notes",
-        "label": "GitHub / Support",
-        "icon": "github"
-      }
-    ],
-    "notes": [
-      {
-        "pattern": "^/[^/]+$"
-      },
-      {
-        "pattern": "^/Features/",
-        "label": "Features",
-        "expanded": false,
-        "tree": {
-          "replace": {
-            "^/Features": ""
-          }
-        }
-      },
-      {
-        "pattern": "^/Deployment/",
-        "label": "Deployment",
-        "expanded": false
-      },
-      {
-        "pattern": "^/Releases/",
-        "label": "Releases",
-        "expanded": false
-      }
-    ]
-  }
+    "$schema": ".app/app.schema.json",
+    "title": "Data Science for Impact: A Handbook for the Aspiring Professional (Early Draft | WIP)",
+    "description": "This is an early draft of a handbook I'm writing for young and aspiring practitioners of data science. Work in progress.",
+    "theme": {
+        "color": "indigo"
+    }
 }

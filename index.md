@@ -1,18 +1,24 @@
 ---
-title: "Intro"
-panel: false
+title: "Start Here"
 ---
 
-Welcome to **Eleventy Notes**, an opinionated template for publishing your personal notes, documentation or even your blog. It's built with [Eleventy](https://www.11ty.dev/), a powerful static site generator.
+{{ 'aperture' | feather }}
 
-Eleventy Notes has many great features you'll love:
+## heading level 2
 
-- ✅ [[Wikilinks]] and backlinks
-- ✅ Support for [[Tags]]
-- ✅ A fast [[Search|client-side search]]
-- ✅ Two [[Themes]] and multiple color schemes to choose from
-- ✅ A customizable [[Sidebar]] with support for folders
-- ✅ Lightweight and fast, with minimal JavaScript
-- ... and much more!
+lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id.
 
-Start using Eleventy Notes by reading the [[Getting started]] guide.
+### heading level 3
+
+lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. 
+
+{% callout "info" %}
+
+
+
+<h5> Heading level 5</h5>
+
+<p>Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id.</p>{% endcallout %}
+
+lorem ipsum dolor sit amet consectetur adipiscing elit. Nullam id dolor id nibh ultricies vehicula ut id elit. Nullam quis risus eget urna mollis ornare vel eu leo. 
+
