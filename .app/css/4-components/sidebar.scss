@@ -1,9 +1,9 @@
 @use "./../2-lib/breakpoints.scss" as *;
 
 .sidebar {
-  border-inline-end: 1px solid var(--color-neutral-line);
-  background-color: var(--color-background);
+  background-color: var(--color-neutral-2);
   overflow: auto;
+  font-size: var(--font-size-sm);
 
   .supports-js & {
     inline-size: 80vi;

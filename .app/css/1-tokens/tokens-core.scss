@@ -7,15 +7,14 @@
 $tokens: (
   font-family: (
     default: (
+      Merriweather,
       ui-sans-serif,
       system-ui,
       -apple-system,
       BlinkMacSystemFont,
+      "Noto Sans",
       "Segoe UI",
       Roboto,
-      "Helvetica Neue",
-      Arial,
-      "Noto Sans",
       sans-serif,
       "Apple Color Emoji",
       "Segoe UI Emoji",
@@ -23,14 +22,11 @@ $tokens: (
       "Noto Color Emoji",
     ),
     mono: (
-      ui-monospace,
-      SFMono-Regular,
-      Menlo,
-      Monaco,
       Consolas,
       "Liberation Mono",
-      "Courier New",
+      ui-monospace,
       monospace,
+      Monaco,
     ),
   ),
   space: (
