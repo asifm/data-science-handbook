@@ -1,0 +1,20 @@
+.callout {
+    border-left: 10px solid var(--color-neutral-6);
+    padding: 1em;
+    font-family: "Noto Sans", sans-serif;
+    background-color: var(--color-neutral-1);
+	box-shadow: 0 0 3px 1px var(--color-neutral-border);
+    width: 50ch;
+    h4, h5, h6 {
+        margin-bottom: 1em;
+        
+    }
+    h5::before {
+        content: "▶";
+    }
+    p {
+        font-size: 0.9em;
+    }
+}
+
+// todo: add styling for different types of callouts
